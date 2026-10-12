@@ -1,16 +1,38 @@
-## Hi there 👋
+![Uploading David_Photo.png…]()
 
-<!--
-**David25781/David25781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm David Fumeira Ndjimbo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Network Engineering | Cybersecurity | Ethical Hacking
+
+I'm a final-year IT student at AUCA, specializing in
+Systems, Network and Communication.
+
+I'm passionate about securing digital infrastructures,
+network engineering, ethical hacking, Linux administration,
+and software development.
+
+## 🛡️ Technical Interests
+- Cybersecurity & Ethical Hacking
+- Network Security & Infrastructure
+- Linux System Administration
+- Penetration Testing
+- AI-Powered Security Solutions
+- Web & Software Development
+
+## 🚀 Featured Projects
+- ScamShield — AI-assisted scam SMS detection
+- EduCore — School Management System
+- Pet Shop Management System
+- Cybersecurity & Network Labs
+
+## 🧰 Technologies
+Java | Python | JavaScript | Linux | Cisco
+Wireshark | Nmap | Metasploit | PostgreSQL
+React | Spring Boot | Git | GitHub
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/david-ndjimbo-1bb02526a
+- Portfolio: https://www.dfnmundocanino.digital/
+- GitHub: https://github.com/David25781
+- Email: davidndjimbo@gmail.com
